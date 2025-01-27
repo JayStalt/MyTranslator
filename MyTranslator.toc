@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: Party Chat Translator
+## Notes: Detects Chinese characters in party chat and translates them to English.
+## Author: Jamison
+## Version: 1.0
+
+MyTranslator.lua
